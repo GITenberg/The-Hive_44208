@@ -1,0 +1,41 @@
+_repo: The-Hive_44208
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44208-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Comfort, Will Levington
+    birthdate: 1878
+    deathdate: 1932
+    gutenberg_agent_id: '2012'
+    url: http://www.gutenberg.org/2009/agents/2012
+description: North Americans.- Quickenings.- Conquest of fears.- The stuff of comrades.-
+  John's things.- Values of letter writing.- The new dancing.- Old pictures in red.-
+  Steve.- Hejira.- The spectator.- Tom and the little girl.- The abbot.- The artist
+  unleashed.- Work in short stories.- Valley road girl.- Beauty.- Shuk.- Imagination.-
+  Boys and dogs.- The man who found peace.- A dithyramb and a letter.- The mating
+  mystery.- Chapter of letters.- Romance.- The cosmic peasant.- Résume.
+gutenberg_issued: '2013-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44208'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays -- 20th century'
+- !lcsh 'Child development'
+- !lcc 'PS'
+- !lcsh 'Education'
+- !lcsh 'Children'
+tableOfContents: North Americans -- Quickenings -- Conquest of fears -- The stuff
+  of comrades -- John's things -- Values of letter writing -- The new dancing -- Old
+  pictures in red -- Steve -- Hejira -- The spectator -- Tom and the little girl --
+  The abbot -- The artist unleashed -- Work in short stories -- Valley road girl --
+  Beauty -- Shuk -- Imagination -- Boys and dogs -- The man who found peace -- A dithyramb
+  and a letter -- The mating mystery -- Chapter of letters -- Romance -- The cosmic
+  peasant -- Résumé.
+title: The Hive
+url: http://www.gutenberg.org/ebooks/44208
